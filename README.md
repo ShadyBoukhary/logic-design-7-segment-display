@@ -1,2 +1,8 @@
-# logic-design-7-segment-display
+# Logic Design Final Project Seven-Segment Display
+
 A project for Logic Design class on designing a seven segment display
+
+## Authors
+* Shady
+* Brice
+* Tommasss
